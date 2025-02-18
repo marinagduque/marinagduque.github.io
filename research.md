@@ -8,11 +8,13 @@ My research combines novel theoretical insights with empirical analysis using me
 
 1. <strong>How do countries achieve status?</strong> While most studies assume that status depends on the qualities of states and especially their economic or military capabilities, my work reveals the network effects that drive status recognition in the international system.
 2. <strong>How does status motivate foreign policy behavior?</strong> While most research treats status-motivated foreign policy as an attempt to achieve international recognition, my work investigates the mechanisms driving status-motivated behavior at the domestic level.
+<br>
 
 #### Book
 
 <a href="http://marinagduque.com/book/" target="_blank">**The Making of International Status.**</a> Oxford University Press (Forthcoming).
 - Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank">2024 Best Conference Paper Award</a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
+<br>
 
 #### Peer-reviewed articles
 
@@ -27,11 +29,13 @@ Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_bla
 - <a href="../pdf/DuqueRecognizingStatus.pdf" target="_blank">Pre-Print PDF</a>
 
 Duque, Marina Guedes. 2009. <a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">**The Copenhagen School's Contribution to International Security Studies**</a> [in Portuguese]. _Contexto Internacional_ 31(3): 459-501.
+<br>
 
 #### Book chapters
 
 Duque, Marina. 2016. "The Rascals’ Paradise: Brazilian National Identity in 2010." In <a href="https://global.oup.com/academic/product/making-identity-count-9780190255473?cc=us&lang=en&" target="_blank">_Making Identity Count: Building a National Identity Database_</a>, edited by Ted Hopf and Bentley B. Allan, 47-62. New York, NY: Oxford University Press.
 - <a href="../pdf/Brazil_2010.pdf" target="_blank">Pre-Print PDF</a>
+<br>
 
 #### Book reviews
 
