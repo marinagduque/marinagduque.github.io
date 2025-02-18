@@ -10,6 +10,7 @@ My research combines novel theoretical insights with empirical analysis using me
 <li> <strong>How does status motivate foreign policy behavior?</strong> While most research treats status-motivated foreign policy as an attempt to achieve international recognition, my work investigates the mechanisms driving status-motivated behavior at the domestic level.</li>
 </ol>
 
+<br>
 #### BOOK
 
 <a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status.</strong></a> Oxford University Press (Forthcoming).
