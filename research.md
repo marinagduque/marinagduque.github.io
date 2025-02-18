@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-cover-img: "images/3Research.png"
+cover-img: "/images/3Research.png"
 ---
 
 My research combines novel theoretical insights with empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions:
