@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: "" 
 cover-img: "/images/1Home.png"
 ---
 
