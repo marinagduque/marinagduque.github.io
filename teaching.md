@@ -5,7 +5,7 @@ cover-img: "/images/4Teaching.png"
 ---
 
 #### Graduate Courses
-<br>
+---
 
 ###### Newcastle University
 
@@ -21,7 +21,7 @@ cover-img: "/images/4Teaching.png"
 - INR5934: Political Psychology and International Relations
 
 #### Undergraduate Courses
-<br>
+---
 
 ###### Newcastle University
 
