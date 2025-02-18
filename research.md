@@ -8,7 +8,7 @@ My research combines novel theoretical insights with empirical analysis using me
 <ol>
 <li> <strong>How do countries achieve status?</strong> While most studies assume that status depends on the qualities of states and especially their economic or military capabilities, my work reveals the network effects that drive status recognition in the international system.</li>
 <li> <strong>How does status motivate foreign policy behavior?</strong> While most research treats status-motivated foreign policy as an attempt to achieve international recognition, my work investigates the mechanisms driving status-motivated behavior at the domestic level.</li>
-</ol><br>
+</ol>
 
 #### BOOK
 
