@@ -14,7 +14,7 @@ My research combines novel theoretical insights with empirical analysis using me
 
 <a href="http://marinagduque.com/book/" target="_blank"><strong>The Making of International Status.</strong></a> Oxford University Press (Forthcoming).
 
-&nbsp - Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank"><strong>2024 Best Conference Paper Award</strong></a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
+&nbsp; - Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank"><strong>2024 Best Conference Paper Award</strong></a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
 
 #### Peer-reviewed articles
 
