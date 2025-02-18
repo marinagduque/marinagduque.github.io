@@ -1,3 +1,9 @@
+---
+layout: page
+title: ""
+cover-img: "3Research.png"
+---
+
 My research combines novel theoretical insights with empirical analysis using methods like network analysis and survey experiments to address two distinct but complementary questions:
 <ol>
 <li> <strong>How do countries achieve status?</strong> While most studies assume that status depends on the qualities of states and especially their economic or military capabilities, my work reveals the network effects that drive status recognition in the international system.</li>
