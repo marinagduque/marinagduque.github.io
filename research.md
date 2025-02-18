@@ -27,7 +27,7 @@ Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_bla
 - <a href="../pdf/DuqueOnlineAppendix.pdf" target="_blank">Appendix</a> & <a href="https://doi.org/10.7910/DVN/4K7SQC" target="_blank">Replication Files</a>
 - <a href="../pdf/DuqueRecognizingStatus.pdf" target="_blank">Pre-Print PDF</a>
 
-Duque, Marina Guedes. 2009. "<a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">**The Copenhagen School's Contribution to International Security Studies**</a>" [in Portuguese]. _Contexto Internacional_ 31(3): 459-501.
+Duque, Marina Guedes. 2009. <a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">**The Copenhagen School's Contribution to International Security Studies**</a> [in Portuguese]. _Contexto Internacional_ 31(3): 459-501.
 
 #### Book chapters
 
