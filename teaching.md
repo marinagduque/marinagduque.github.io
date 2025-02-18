@@ -20,6 +20,7 @@ cover-img: "/images/4Teaching.png"
 - INR5934: International Relations Theory
 - INR5934: Political Psychology and International Relations
 <br>
+
 #### Undergraduate Courses
 ---
 
