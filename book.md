@@ -16,11 +16,11 @@ With great power rivalry on the rise again, many worry that struggles for status
 Although scholars rely on status to explain important phenomena in international politics—such as hegemonic wars and the foreign policies of emerging powers—existing research pays little attention to the question of how countries achieve status. Researchers traditionally assume that status is a function of the qualities of states, especially their material capabilities. However, this assumption remains like a folk theory of status, taken to be true even though it has not been put to the test. And while previous research acknowledges the relational and symbolic dimensions of status, such dimensions remain under-theorized. This book builds on previous studies by specifying the relational processes that shape status recognition in the international system. By showing that status emerges from relational processes that cannot be reduced to the qualities of states, the book highlights the analytical usefulness of status for theories of international politics.
 <br>
 </details>
-<br>
 
 <details><summary><strong>Chapter 2: A Network Theory of Status</strong></summary>
 <br>
 Drawing on interdisciplinary research, this chapter posits that status depends on patterns of state relations. As such, status recognition is subject to nonlinear effects or emerging properties that cannot be reduced to state attributes. Once established, status distinctions reinforce inequality, independently from material conditions, via cumulative advantage mechanisms. In the international system, three mechanisms make status self-reinforcing. First, status involves social closure, or the establishment of a social boundary between an established group—deemed superior and therefore entitled to privileges—and outsiders. Second, consensus effects shape status recognition: the more a state receives recognition, the more others deem it worthy of recognition. Finally, status involves privileges that beget more status: high-status states act as standard-setters, shaping the criteria for status recognition; and as gatekeepers, shaping recognition decisions. By defining the rules of the game, high-status states enjoy considerable advantage in the process of status recognition.  
+<br>
 </details>
 
 <details><summary><strong>Chapter 3: A Relational Empirical Strategy</strong></summary>
