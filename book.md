@@ -17,9 +17,7 @@ Although scholars rely on status to explain important phenomena in international
 </details>
 <br>
 
-###### Chapter 2: A Network Theory of Status
-
-<details><summary>Chapter Summary</summary>
+<details><summary><strong>Chapter 2: A Network Theory of Status</strong></summary>
 <br>
 Drawing on interdisciplinary research, this chapter posits that status depends on patterns of state relations. As such, status recognition is subject to nonlinear effects or emerging properties that cannot be reduced to state attributes. Once established, status distinctions reinforce inequality, independently from material conditions, via cumulative advantage mechanisms. In the international system, three mechanisms make status self-reinforcing. First, status involves social closure, or the establishment of a social boundary between an established group—deemed superior and therefore entitled to privileges—and outsiders. Second, consensus effects shape status recognition: the more a state receives recognition, the more others deem it worthy of recognition. Finally, status involves privileges that beget more status: high-status states act as standard-setters, shaping the criteria for status recognition; and as gatekeepers, shaping recognition decisions. By defining the rules of the game, high-status states enjoy considerable advantage in the process of status recognition.  
 </details>
