@@ -9,16 +9,19 @@ cover-img: "/images/2BookProject.png"
 With great power rivalry on the rise again, many worry that struggles for status among states could lead to war. As a growing consensus indicates, status-dissatisfied states are more prone to conflict. Yet, a fundamental question remains: how do states achieve status? Scholars traditionally assume that status is a function of state attributes, especially material capabilities, but do not put this assumption to the test. Drawing on interdisciplinary research, this book develops a network theory of status. It argues that status depends on patterns of state relations, rather than on the properties of states. To understand how international hierarchies of status are made, the book traces their origins back to key transformations that magnified global inequality in the nineteenth century. As Europeans made a turn to imperialism, status distinctions legitimized inequality by drawing a boundary between “civilized” Europeans entitled to sovereignty on the one hand, and “uncivilized” non-Europeans unable to govern themselves on the other hand. Once established, status distinctions reinforced inequality via cumulative advantage mechanisms: the higher standing a state enjoys, the more it attracts additional recognition. It is no coincidence that, to this day, status evaluations rely on governance ideals associated with the West. Conducting a network analysis of diplomatic relations since the early nineteenth century, this study reveals relational patterns in status recognition that had not been examined empirically. By distinguishing status from the properties of states, the book aims to move status to its rightful place as a concept central to the study of international politics.
 
 
-#### Chapter 1: How Do Countries Achieve Status?
-<details><summary>Chapter summary</summary>
+##### Chapter 1: How Do Countries Achieve Status?
+
+<details><summary>Chapter Summary</summary>
 <br>
 Although scholars rely on status to explain important phenomena in international politics—such as hegemonic wars and the foreign policies of emerging powers—existing research pays little attention to the question of how countries achieve status. Researchers traditionally assume that status is a function of the qualities of states, especially their material capabilities. However, this assumption remains like a folk theory of status, taken to be true even though it has not been put to the test. And while previous research acknowledges the relational and symbolic dimensions of status, such dimensions remain under-theorized. This book builds on previous studies by specifying the relational processes that shape status recognition in the international system. By showing that status emerges from relational processes that cannot be reduced to the qualities of states, the book highlights the analytical usefulness of status for theories of international politics.
 </details>
 
-
 ##### Chapter 2: A Network Theory of Status
 
+<details><summary>Chapter Summary</summary>
+<br>
 Drawing on interdisciplinary research, this chapter posits that status depends on patterns of state relations. As such, status recognition is subject to nonlinear effects or emerging properties that cannot be reduced to state attributes. Once established, status distinctions reinforce inequality, independently from material conditions, via cumulative advantage mechanisms. In the international system, three mechanisms make status self-reinforcing. First, status involves social closure, or the establishment of a social boundary between an established group—deemed superior and therefore entitled to privileges—and outsiders. Second, consensus effects shape status recognition: the more a state receives recognition, the more others deem it worthy of recognition. Finally, status involves privileges that beget more status: high-status states act as standard-setters, shaping the criteria for status recognition; and as gatekeepers, shaping recognition decisions. By defining the rules of the game, high-status states enjoy considerable advantage in the process of status recognition.  
+</details>
 
 ##### Chapter 3: A Relational Empirical Strategy
 
