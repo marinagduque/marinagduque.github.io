@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Research"
 cover-img: "/images/3Research.png"
 ---
 
