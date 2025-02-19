@@ -29,20 +29,40 @@ Drawing on interdisciplinary research, this chapter posits that status depends o
 
 ##### Chapter 3: A Relational Empirical Strategy
 
+<details><summary>Chapter Summary</summary>
+<br>
 To investigate the sources of status, this book examines diplomatic networks. Social network analysis is ideally suited to investigate the observable implications from a network theory of status because it detects relational patterns that are not observable using conventional methods. The chapter first justifies the measurement strategy used based on international law, introduces the data, discusses the operationalization criteria used, and explains why embassy exchange is preferable to other potential measures of status. The chapter then addresses potential concerns associated with embassy exchange, dispelling common misconceptions about its use as a measure of status. Finally, the chapter validates the proposed measure using qualitative and quantitative evidence from multiple sources. As a comprehensive analysis of the network of embassies shows, embassy exchange adequately captures both recognition and hierarchy, the two necessary dimensions in the concept of status. Moreover, states' positions in the network are not determined by their material capabilities.
+</details>
+<br>
 
 ##### Chapter 4: A Network Model of Diplomatic Status
 
+<details><summary>Chapter Summary</summary>
+<br>
 This chapter examines the implications of the book’s argument for the formation of ties in the diplomatic network. Leveraging inferential network analysis, which enables researchers to directly test hypotheses involving network effects, the chapter assesses why states send embassies to certain destinations and not others. The analysis demonstrates that a relational model performs much better than attribute-based explanations in theorizing the underlying dynamics of the diplomatic network. To begin, a state’s existing relations affect its ability to achieve status: states prove more likely to recognize states that recognize them in return or that share diplomatic partners with them. Moreover, status is self-reinforcing: the more a state receives recognition, the more it attracts additional recognition. Finally, it is attribute similarity—rather than the possession of attributes per se—that drives recognition: states recognize those states that are like them, rather than the states with the largest share of attributes.
+</details>
+<br>
 
 ##### Chapter 5: The Core-Periphery Structure of the Diplomatic Network
 
+<details><summary>Chapter Summary</summary>
+<br>
 This chapter examines the implications of the book’s argument at the structural level of the diplomatic network. First, the analysis shows that the network has a core-periphery structure—whereby states can be divided into a well-connected core, comprised mostly of Western or Western-aligned states, and a sparsely connected periphery. Regardless of their position in the network, states are more likely to send embassies to states in the core rather than to states in the periphery. As a result, the size and the composition of the network's core remain stable over time, even as the number of states in the system increases. Second, the analysis shows that membership in the network's core depends on a Western way of life that includes fundamental values like liberal democracy. Predominant conceptions of state competence thus involve not only the ability to fend for oneself under anarchy, but also a Western standard of civilization.
+</details>
+<br>
 
 ##### Chapter 6: Do Nuclear Weapons Confer Status?
 
+<details><summary>Chapter Summary</summary>
+<br>
 While existing studies typically treat nuclear weapons as a symbol of international status, the relationship between nuclear weapons and status remains unexplored. This book posits that state attributes matter for status recognition because of their symbolic value, which depends on the social context, rather than because of their functional value or their destructive capacity. Therefore, since nuclear weapons became stigmatized under the nonproliferation regime, nuclearization should not improve a country's standing after 1970. Using the synthetic control method, the analysis first demonstrates that the acquisition of nuclear weapons does not increase the recognition a state receives. Using network analysis, the analysis then shows that the acquisition of nuclear weapons does not evoke recognition from existing nuclear weapons states more specifically. Results are consistent with qualitative evidence for each case, which indicates that under the nonproliferation regime, nuclearization tends to evoke international condemnation rather than praise.
+</details>
+<br>
 
 ##### Chapter 7: Conclusion
 
+<details><summary>Chapter Summary</summary>
+<br>
 This chapter concludes the analysis in two steps. The first two sections summarize, respectively, the theoretical and the empirical contributions made by this study. Based on these contributions, the chapter's last section then offers general lessons for research in three areas. First, the analysis demonstrates that international hierarchies of status are far from meritocratic systems. Because status depends on a state’s relations, it is easier to maintain status than to gain it. Second, the analysis indicates that, while the search for status may exacerbate conflict, it may also promote international order. Because great powers also lead by example, continued global leadership requires upholding the existing standards of state competence, which in the US-led international order include liberal democracy. Finally, the analysis suggests that the peacefulness of power transitions depends on whether established and emerging powers share similar conceptions of state competence. Crucially, disputes over status are disputes for legitimacy.
+</details>
+
