@@ -40,7 +40,6 @@ This chapter examines the implications of the book’s argument at the structura
 <br>
 While existing studies typically treat nuclear weapons as a symbol of international status, the relationship between nuclear weapons and status remains unexplored. This book posits that state attributes matter for status recognition because of their symbolic value, which depends on the social context, rather than because of their functional value or their destructive capacity. Therefore, since nuclear weapons became stigmatized under the nonproliferation regime, nuclearization should not improve a country's standing after 1970. Using the synthetic control method, the analysis first demonstrates that the acquisition of nuclear weapons does not increase the recognition a state receives. Using network analysis, the analysis then shows that the acquisition of nuclear weapons does not evoke recognition from existing nuclear weapons states more specifically. Results are consistent with qualitative evidence for each case, which indicates that under the nonproliferation regime, nuclearization tends to evoke international condemnation rather than praise.
 </details>
-<br>
 
 <details><summary><strong>Chapter 7: Conclusion</strong></summary>
 <br>
