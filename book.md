@@ -11,9 +11,7 @@ With great power rivalry on the rise again, many worry that struggles for status
 #### Table of Contents
 ---
 
-###### Chapter 1: How Do Countries Achieve Status?
-
-<details><summary>Chapter Summary</summary>
+<details><summary>**Chapter 1: How Do Countries Achieve Status?**</summary>
 <br>
 Although scholars rely on status to explain important phenomena in international politics—such as hegemonic wars and the foreign policies of emerging powers—existing research pays little attention to the question of how countries achieve status. Researchers traditionally assume that status is a function of the qualities of states, especially their material capabilities. However, this assumption remains like a folk theory of status, taken to be true even though it has not been put to the test. And while previous research acknowledges the relational and symbolic dimensions of status, such dimensions remain under-theorized. This book builds on previous studies by specifying the relational processes that shape status recognition in the international system. By showing that status emerges from relational processes that cannot be reduced to the qualities of states, the book highlights the analytical usefulness of status for theories of international politics.
 </details>
