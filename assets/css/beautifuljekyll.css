@@ -144,7 +144,7 @@ img {
   margin-top: 1.875rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .disqus-comments {
     margin-top: 2.5rem;
   }
@@ -459,7 +459,7 @@ footer .footer-custom-content {
   font-family: var(--header-font);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   footer {
     padding: 3.125rem 0;
   }
@@ -486,7 +486,7 @@ footer .footer-custom-content {
   overflow: hidden;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .post-preview {
     padding: 2.1875rem 0;
   }
@@ -528,7 +528,7 @@ footer .footer-custom-content {
 .post-heading .post-meta {
   display: inline-block;
 }
-@media (max-width: 767px) {
+@media (max-width: 200px) {
   .post-heading .post-meta {
     display: block;
     margin-bottom: 0;
@@ -559,7 +559,7 @@ footer .footer-custom-content {
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
 }
-@media (max-width: 767px) {
+@media (max-width: 200px) {
   .post-preview .post-image {
     height: 9rem;
     width: 9rem;
@@ -591,7 +591,7 @@ footer .footer-custom-content {
   font-weight: 800;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .post-preview .post-title {
     font-size: 2.25rem;
   }
@@ -634,7 +634,7 @@ footer .footer-custom-content {
   margin-bottom: 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .post-preview .blog-tags {
     margin-top: 0.625rem;
   }
@@ -798,7 +798,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-left: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .pagination.blog-pager {
     margin-top: 0.625rem;
   }
@@ -816,7 +816,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: var(--text-col);
   padding: 0.75rem 1rem;
 }
-@media (min-width: 768px) {
+@media (min-width: 200px) {
   .pagination .page-item .page-link {
     padding: 0.9375rem 1.5625rem;
   }
@@ -1073,7 +1073,7 @@ pre {
     right: 12.5%;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 200px) {
   #nav-search-input {
     width: 100%;
   }
