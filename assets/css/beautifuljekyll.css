@@ -99,7 +99,7 @@ hr.small {
 }
 
 /* omit home picture from mobile screens */
-@media only screen and (max-width:767px){
+@media only screen and (max-width:200px){
 .myPicture img{
 display:none;
   }
