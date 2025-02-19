@@ -1126,9 +1126,8 @@ pre {
 }
 
 /* omit home picture from mobile screens */
-@media 
-  only screen and (max-width: 767px)  {
-    .myPicture{
-       display:none;
-     }
+@media only screen and (max-width:767px){
+.myPicture img{
+display:none;
+  }
 }
