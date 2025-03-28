@@ -40,4 +40,6 @@ Duque, Marina. 2016. <a href="https://doi.org/10.1093/acprof:oso/9780190255473.0
 #### Book reviews
 ---
 
+Duque, Marina G. 2025. <a href="https://www.prio.org/journals/jpr/booknotes/432" target="_blank">"Rule in International Politics." By Christopher Daase, Nicole Deitelhoff & Antonia Witt (eds). </a> _Journal of Peace Research_.
+
 Duque, Marina G. 2021. <a href="https://doi.org/10.1017/S1537592721000554" target="_blank">Review of Lora Anne Viola's "The Closure of the International System: How Institutions Create Political Equalities and Hierarchies."</a> _Perspectives on Politics_ 19(2): 687-689. [ <a href="../pdf/Duque_2021_Viola_Review.pdf" target="_blank">PDF</a> ]
