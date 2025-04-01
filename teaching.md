@@ -9,16 +9,16 @@ cover-img: "/images/4Teaching.png"
 
 ###### Newcastle University
 
-- <a href="https://www.ncl.ac.uk/postgraduate/degrees/module/?code=POL8072" target="_blank">POL8072: Public Policy in Practice: from the Local to the Global</a>
+- <a href="https://www.ncl.ac.uk/postgraduate/degrees/module/?code=POL8072" target="_blank">POL8072: Public Policy in Practice: from the Local to the Global</a> (MSc)
 
 ###### University College London
 
-- <a href="https://www.ucl.ac.uk/module-catalogue/modules/international-public-policy-PUBL0090" target="_blank">PUBL0090: International Public Policy</a>
+- <a href="https://www.ucl.ac.uk/module-catalogue/modules/international-public-policy-PUBL0090" target="_blank">PUBL0090: International Public Policy</a> (MSc)
 
 ###### Florida State University
 
-- INR5934: International Relations Theory
-- INR5934: Political Psychology and International Relations
+- INR5934: International Relations Theory (PhD)
+- INR5934: Political Psychology and International Relations (PhD)
 <br><br>
 
 #### Undergraduate Courses
