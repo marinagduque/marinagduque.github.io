@@ -9,6 +9,7 @@ cover-img: "/images/4Teaching.png"
 
 ###### Newcastle University
 
+- <a href="https://www.ncl.ac.uk/module-catalogue/module.php?code=HSS8005" target="_blank">HSS8005: Quantitative Analysis</a> (PGT)
 - <a href="https://www.ncl.ac.uk/postgraduate/degrees/module/?code=POL8072" target="_blank">POL8072: Public Policy in Practice: from the Local to the Global</a> (MSc)
 
 ###### University College London
