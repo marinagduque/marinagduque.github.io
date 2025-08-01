@@ -4,7 +4,7 @@ title: ""
 cover-img: "/images/2BookProject.png"
 ---
 
-#### THE MAKING OF INTERNATIONAL STATUS | Oxford University Press
+#### THE MAKING OF INTERNATIONAL STATUS (Oxford University Press)
 
 Available for pre-order at <a href="https://global.oup.com/academic/product/the-making-of-international-status-9780197801963?cc=gb&lang=en&" target="_blank">OUP</a> | <a href="https://a.co/d/3UokB33" target="_blank">Amazon US</a> | <a href="https://amzn.eu/d/hBTin0U" target="_blank">Amazon UK</a>
 
