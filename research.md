@@ -25,7 +25,7 @@ Duque, Marina G. 2018. <a href="https://doi.org/10.1093/isq/sqy001" target="_bla
 Duque, Marina Guedes. 2009. <a href="http://www.scielo.br/pdf/cint/v31n3/v31n3a03.pdf" target="_blank">**The Copenhagen School's Contribution to International Security Studies**</a> [in Portuguese]. _Contexto Internacional_ 31(3): 459-501. [ <a href="../pdf/Duque_2009_Copenhagen_School.pdf" target="_blank">PDF</a> ]
 <br><br>
 
-#### Book chapters
+#### Book chapter
 ---
 
 Duque, Marina. 2016. <a href="https://doi.org/10.1093/acprof:oso/9780190255473.003.0003" target="_blank">**The Rascals’ Paradise: Brazilian National Identity in 2010.**</a> In <a href="https://global.oup.com/academic/product/making-identity-count-9780190255473?cc=us&lang=en&" target="_blank">_Making Identity Count: Building a National Identity Database_</a>, edited by Ted Hopf and Bentley B. Allan, 47-62. New York, NY: Oxford University Press. [ <a href="../pdf/Duque_2016_Rascals_Paradise.pdf" target="_blank">PDF</a> | <a href="../pdf/Brazil_2010.pdf" target="_blank">Pre-Print PDF</a> ]
