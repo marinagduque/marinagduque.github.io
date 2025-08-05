@@ -7,7 +7,7 @@ cover-img: "/images/3Research.png"
 #### Book
 ---
 
-<a href="http://marinagduque.com/book/" target="_blank">**The Making of International Status.**</a> Oxford University Press (expected November 2025).
+<a href="http://marinagduque.com/book/" target="_blank">**The Making of International Status.**</a> Oxford University Press (expected Nov 2025).
 - Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank">2024 Best Conference Paper Award</a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
 <br><br>
 
