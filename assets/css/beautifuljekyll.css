@@ -1130,4 +1130,7 @@ pre {
 .myPicture img{
 display:none;
   }
+.bookCover img{
+width: 50%;
+  }
 }
