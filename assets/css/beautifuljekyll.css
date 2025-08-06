@@ -1131,6 +1131,6 @@ pre {
 display:none;
   }
 .bookCover img{
-width: 50%;
+display:flex;
   }
 }
