@@ -6,7 +6,8 @@ cover-img: "/images/2BookProject.png"
 
 #### THE MAKING OF INTERNATIONAL STATUS | Oxford University Press
 
-Pre-order: <a href="https://global.oup.com/academic/product/the-making-of-international-status-9780197801963?cc=gb&lang=en&" target="_blank">OUP</a>,  <a href="https://amzn.to/3U99Jpi" target="_blank">Amazon US</a> &  <a href="https://amzn.to/3UEbmeG" target="_blank">Amazon UK</a>
+E-book format available <a href="https://doi.org/10.1093/9780197801994.003.0001" target="_blank">here</a>. 
+Pre-order a hard copy: <a href="https://global.oup.com/academic/product/the-making-of-international-status-9780197801963?cc=gb&lang=en&" target="_blank">OUP</a>,  <a href="https://amzn.to/3U99Jpi" target="_blank">Amazon US</a> &  <a href="https://amzn.to/3UEbmeG" target="_blank">Amazon UK</a>
 
 <div class="bookCover" id="bookCover"><img src="../images/book_cover_high_res.jpg" style="width: 260px; margin-right: 30px; margin-left: 0px; margin-top: 5px; margin-bottom: 5px; border-radius: 0px" align="left"></div> With great power rivalry on the rise again, many worry that struggles for status among states could lead to war. As a growing consensus indicates, status-dissatisfied states are more prone to conflict. Yet, a fundamental question remains: how do states achieve status? Scholars traditionally assume that status is a function of state attributes, especially material capabilities, but do not put this assumption to the test. Drawing on interdisciplinary research, this book develops a network theory of status. It argues that status depends on patterns of state relations, rather than on the properties of states.
 
