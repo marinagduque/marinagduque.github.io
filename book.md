@@ -5,7 +5,6 @@ cover-img: "/images/2BookProject.png"
 ---
 
 #### THE MAKING OF INTERNATIONAL STATUS | Oxford University Press
-
 <br>
 
 * E-book available <a href="https://doi.org/10.1093/9780197801994.001.0001" target="_blank">here</a>.
