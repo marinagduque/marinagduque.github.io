@@ -10,8 +10,8 @@ cover-img: "/images/3Research.png"
 <a href="../book/">**The Making of International Status.**</a> Oxford University Press, 2025.
 - Shortlisted, <a href="https://www.bisa.ac.uk/news/susan-strange-best-book-prize-2026-shortlist-announced" target="_blank">2026 Susan Strange Best Book Prize</a> by the British International Studies Association
 - Honorable Mention, <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-41/" target="_blank">2024 Best Conference Paper Award</a> by the American Political Science Association's Political Networks Section, for the chapter "Do Nuclear Weapons Confer Status?"
-<br><br>
 - Review: <a href="https://www.prio.org/journals/jpr/booknotes/476" target="_blank">Journal of Peace Research</a>
+<br><br>
 
 #### Peer-reviewed articles
 ---
