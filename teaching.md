@@ -25,14 +25,16 @@ cover-img: "/images/4Teaching.png"
 #### Undergraduate Courses
 ---
 
+###### University College London
+
+- <a href="[https://www.ucl.ac.uk/module-catalogue/modules/international-conflict-and-cooperation-POLS0001](https://www.ucl.ac.uk/module-catalogue/modules/qualitative-research-methods-in-practice-ESPS0056)" target="_blank">ESPS0056: Qualitative Research Methods in Practice</a>
+- <a href="[https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-history-law-politics-and-philosophy-ESPS0001)" target="_blank">ESPS0001: Introduction to History, Law, Politics and Philosophy</a>
+- <a href="https://www.ucl.ac.uk/module-catalogue/modules/international-conflict-and-cooperation-POLS0001" target="_blank">POLS0001: International Conflict and Cooperation</a>
+- <a href="https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086" target="_blank">POLS0102: Dissertation</a>
+
 ###### Newcastle University
 
 - <a href="https://www.ncl.ac.uk/mobility/newcastle/study-abroad/POL1032" target="_blank">POL1032: Key Concepts in International Politics</a>
-
-###### University College London
-
-- <a href="https://www.ucl.ac.uk/module-catalogue/modules/international-conflict-and-cooperation-POLS0001" target="_blank">POLS0001: International Conflict and Cooperation</a>
-- <a href="https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086" target="_blank">POLS0102: Dissertation</a>
 
 ###### Florida State University
 
