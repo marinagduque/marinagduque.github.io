@@ -1104,3 +1104,10 @@ pre {
     display: inline-block;
   }
 }
+
+/* Hide the homepage portrait on mobile */
+@media only screen and (max-width: 767px) {
+  .home-photo {
+    display: none;
+  }
+}
