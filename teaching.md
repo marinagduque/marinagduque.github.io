@@ -29,13 +29,13 @@ cover-img: "/images/4Teaching.png"
 
 - <a href="https://www.ucl.ac.uk/module-catalogue/modules/politicsof-latin-america-ESPS0066" target="_blank">ESPS0066: Politics of Latin America</a>
 - <a href="https://www.ucl.ac.uk/module-catalogue/modules/global-politics-ESPS0032" target="_blank">ESPS0032: Global Politics</a>
-- <a href="https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086" target="_blank">ESPS0001: Introduction to History, Law, Politics and Philosophy</a>
+- <a href="https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-history-law-politics-and-philosophy-ESPS0001" target="_blank">ESPS0001: Introduction to History, Law, Politics and Philosophy</a>
 - <a href="https://www.ucl.ac.uk/module-catalogue/modules/international-conflict-and-cooperation-POLS0001" target="_blank">POLS0001: International Conflict and Cooperation</a>
 - <a href="https://www.ucl.ac.uk/module-catalogue/modules/dissertation-POLS0086" target="_blank">POLS0102: Dissertation</a>
 
 ###### Newcastle University
 
-- <a href="https://www.ncl.ac.uk/mobility/newcastle/study-abroad/POL1032" target="_blank">POL1032: Key Concepts in International Politics</a>
+- <a href="https://www.ncl.ac.uk/mobility/module/?code=POL1032" target="_blank">POL1032: Key Concepts in International Politics</a>
 
 ###### Florida State University
 
